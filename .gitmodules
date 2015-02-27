@@ -1,6 +1,6 @@
-[submodule "modules/rkhunter"]
-	path = modules/rkhunter
+[submodule "rkhunter"]
+	path = rkhunter
 	url = https://github.com/thbe/puppet-rkhunter.git
-[submodule "modules/yum"]
-	path = modules/yum
+[submodule "yum"]
+	path = yum
 	url = https://github.com/thbe/puppet-yum.git
